@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ThePack/!svn/ver/60/ThePack/src/net/sf/odinms/net/login/handler
+END
+CreateCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/login/handler/CreateCharHandler.java
+END
+RelogRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/RelogRequestHandler.java
+END
+CharlistRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/CharlistRequestHandler.java
+END
+ServerStatusRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/ServerStatusRequestHandler.java
+END
+PickCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/PickCharHandler.java
+END
+CharSelectedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/CharSelectedHandler.java
+END
+ViewCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/login/handler/ViewCharHandler.java
+END
+AfterLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/AfterLoginHandler.java
+END
+LoginPasswordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/LoginPasswordHandler.java
+END
+ServerlistRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ThePack/!svn/ver/60/ThePack/src/net/sf/odinms/net/login/handler/ServerlistRequestHandler.java
+END
+CheckCharNameHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/login/handler/CheckCharNameHandler.java
+END
+DeleteCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/handler/DeleteCharHandler.java
+END

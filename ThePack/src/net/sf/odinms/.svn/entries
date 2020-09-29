@@ -1,0 +1,49 @@
+9
+
+dir
+68
+http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms
+http://my-svn.assembla.com/svn/ThePack
+
+
+
+2009-01-23T04:10:20.604134Z
+68
+sinems
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0e46c49-be69-4f5a-ad62-21024a331aea
+
+tools
+dir
+
+scripting
+dir
+
+database
+dir
+
+net
+dir
+
+server
+dir
+
+provider
+dir
+
+client
+dir
+

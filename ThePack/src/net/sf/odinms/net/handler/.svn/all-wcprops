@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/handler
+END
+KeepAliveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/handler/KeepAliveHandler.java
+END
+LoginRequiringNoOpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/handler/LoginRequiringNoOpHandler.java
+END
+NoOpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/handler/NoOpHandler.java
+END

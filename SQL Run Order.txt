@@ -1,0 +1,19 @@
+Run the SQLs in this order:
+
+1.  ThePack
+2.  Additional drops
+3.  Donator Points
+4.  GMShops
+5.  GuildHideouts
+6.  Karma
+7.  Mounts
+8.  MTS
+9.  MultipetSave
+10. NewCommands
+11. NewMarriage
+12. Omok
+13. PirateStuff
+14. PvPScript
+15. Singaporean Drops
+
+Techinically if you run ThePack first and then the rest, it would not make a difference.

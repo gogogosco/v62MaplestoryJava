@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client
+END
+SkillMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/SkillMacro.java
+END
+RunnableWithResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/RunnableWithResult.java
+END
+MapleKeyBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleKeyBinding.java
+END
+ExpTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ThePack/!svn/ver/59/ThePack/src/net/sf/odinms/client/ExpTable.java
+END
+MaplePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MaplePet.java
+END
+LoginCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/LoginCrypto.java
+END
+PetDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/PetDataFactory.java
+END
+MapleCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/MapleCharacter.java
+END
+MapleInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleInventory.java
+END
+InventoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/InventoryException.java
+END
+MapleRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleRing.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ThePack/!svn/ver/48/ThePack/src/net/sf/odinms/client/Skill.java
+END
+MapleSkinColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleSkinColor.java
+END
+Equip.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/Equip.java
+END
+MapleQuestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleQuestStatus.java
+END
+BuddylistEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/BuddylistEntry.java
+END
+ISkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/ISkill.java
+END
+MapleStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleStat.java
+END
+IEquip.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/IEquip.java
+END
+CharacterNameAndId.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/CharacterNameAndId.java
+END
+InventoryContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/InventoryContainer.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/BuddyList.java
+END
+SkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/SkillFactory.java
+END
+IItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/IItem.java
+END
+MapleCharacterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/55/ThePack/src/net/sf/odinms/client/MapleCharacterUtil.java
+END
+MapleWeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleWeaponType.java
+END
+AutoRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ThePack/!svn/ver/49/ThePack/src/net/sf/odinms/client/AutoRegister.java
+END
+MapleInventoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleInventoryType.java
+END
+MapleMount.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/MapleMount.java
+END
+PetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/PetCommand.java
+END
+MapleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/MapleJob.java
+END
+MapleDisease.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ThePack/!svn/ver/50/ThePack/src/net/sf/odinms/client/MapleDisease.java
+END
+MapleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ThePack/!svn/ver/50/ThePack/src/net/sf/odinms/client/MapleClient.java
+END
+MapleBuffStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ThePack/!svn/ver/62/ThePack/src/net/sf/odinms/client/MapleBuffStat.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/Item.java
+END
+LoginCryptoLegacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/LoginCryptoLegacy.java
+END

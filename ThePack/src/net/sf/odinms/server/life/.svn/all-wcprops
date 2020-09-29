@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ThePack/!svn/ver/60/ThePack/src/net/sf/odinms/server/life
+END
+MapleNPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MapleNPC.java
+END
+SpawnPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/SpawnPoint.java
+END
+MobSkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MobSkillFactory.java
+END
+MapleMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ThePack/!svn/ver/60/ThePack/src/net/sf/odinms/server/life/MapleMonster.java
+END
+MobAttackInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MobAttackInfoFactory.java
+END
+MobSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MobSkill.java
+END
+MapleNPCStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MapleNPCStats.java
+END
+ElementalEffectiveness.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/ElementalEffectiveness.java
+END
+MobAttackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MobAttackInfo.java
+END
+MapleMonsterStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MapleMonsterStats.java
+END
+MapleLifeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MapleLifeFactory.java
+END
+MapleMonsterInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MapleMonsterInformationProvider.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/Element.java
+END
+AbstractLoadedMapleLife.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/AbstractLoadedMapleLife.java
+END
+MonsterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/server/life/MonsterListener.java
+END

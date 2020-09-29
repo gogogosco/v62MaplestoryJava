@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/net/channel
+END
+ChannelServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/channel/ChannelServer.java
+END
+PlayerStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/channel/PlayerStorage.java
+END
+ChannelServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/channel/ChannelServerMBean.java
+END
+ChannelWorldInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/62/ThePack/src/net/sf/odinms/net/channel/ChannelWorldInterfaceImpl.java
+END
+IPlayerStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/channel/IPlayerStorage.java
+END

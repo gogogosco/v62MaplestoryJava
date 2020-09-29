@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/scripting/event
+END
+EventInstanceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/scripting/event/EventInstanceManager.java
+END
+EventScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/scripting/event/EventScriptManager.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/scripting/event/EventManager.java
+END

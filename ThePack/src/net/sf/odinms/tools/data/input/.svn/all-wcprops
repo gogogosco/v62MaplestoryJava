@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input
+END
+ByteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/ByteInputStream.java
+END
+LittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/LittleEndianAccessor.java
+END
+ByteArrayByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/ByteArrayByteStream.java
+END
+RandomAccessByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/RandomAccessByteStream.java
+END
+SeekableInputStreamBytestream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/SeekableInputStreamBytestream.java
+END
+GenericSeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/GenericSeekableLittleEndianAccessor.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/StreamUtil.java
+END
+InputStreamByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/InputStreamByteStream.java
+END
+SeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/SeekableLittleEndianAccessor.java
+END
+GenericLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/tools/data/input/GenericLittleEndianAccessor.java
+END

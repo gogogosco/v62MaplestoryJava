@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/ThePack/!svn/ver/68/ThePack
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ThePack/!svn/ver/44/ThePack/db.properties
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/44/ThePack/logging.properties
+END
+world.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/68/ThePack/world.properties
+END
+filename.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ThePack/!svn/ver/44/ThePack/filename.keystore
+END
+world.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/44/ThePack/world.truststore
+END
+launch_world.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/68/ThePack/launch_world.bat
+END
+STARTER.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ThePack/!svn/ver/68/ThePack/STARTER.bat
+END
+world.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ThePack/!svn/ver/44/ThePack/world.keystore
+END
+login.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/44/ThePack/login.properties
+END
+channel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/44/ThePack/channel.properties
+END
+login.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/44/ThePack/login.truststore
+END
+channel.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/44/ThePack/channel.truststore
+END
+sendops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/62/ThePack/sendops.properties
+END
+launch_channel.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/68/ThePack/launch_channel.bat
+END
+launch_login.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/68/ThePack/launch_login.bat
+END
+recvops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/65/ThePack/recvops.properties
+END
+login.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ThePack/!svn/ver/44/ThePack/login.keystore
+END
+channel.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/44/ThePack/channel.keystore
+END

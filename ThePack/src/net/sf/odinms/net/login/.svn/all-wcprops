@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ThePack/!svn/ver/62/ThePack/src/net/sf/odinms/net/login
+END
+LoginServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/62/ThePack/src/net/sf/odinms/net/login/LoginServer.java
+END
+LoginServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/LoginServerMBean.java
+END
+LoginWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/LoginWorker.java
+END
+LoginWorldInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/LoginWorldInterfaceImpl.java
+END
+RankingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/net/login/RankingWorker.java
+END

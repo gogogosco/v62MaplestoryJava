@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ThePack/!svn/ver/62/ThePack/src/net/sf/odinms/net/world/remote
+END
+WorldLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/world/remote/WorldLocation.java
+END
+WorldRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/world/remote/WorldRegistry.java
+END
+WorldChannelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ThePack/!svn/ver/62/ThePack/src/net/sf/odinms/net/world/remote/WorldChannelInterface.java
+END
+WorldLoginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/world/remote/WorldLoginInterface.java
+END
+CheaterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/world/remote/CheaterData.java
+END
+WorldChannelCommonOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ThePack/!svn/ver/56/ThePack/src/net/sf/odinms/net/world/remote/WorldChannelCommonOperations.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ThePack/!svn/ver/68/ThePack/dist
+END
+odinms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ThePack/!svn/ver/68/ThePack/dist/odinms.jar
+END
+slf4j-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/44/ThePack/dist/slf4j-api.jar
+END
+mina-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/44/ThePack/dist/mina-core.jar
+END
+jpcap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ThePack/!svn/ver/44/ThePack/dist/jpcap.jar
+END
+slf4j-jdk14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ThePack/!svn/ver/44/ThePack/dist/slf4j-jdk14.jar
+END
+exttools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ThePack/!svn/ver/44/ThePack/dist/exttools.jar
+END
+mysql-connector-java-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ThePack/!svn/ver/44/ThePack/dist/mysql-connector-java-bin.jar
+END

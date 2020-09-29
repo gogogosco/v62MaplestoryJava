@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/messages
+END
+CommandProcessorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/44/ThePack/src/net/sf/odinms/client/messages/CommandProcessorMBean.java
+END
+MessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ThePack/!svn/ver/50/ThePack/src/net/sf/odinms/client/messages/MessageCallback.java
+END
+WhisperMapleClientMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ThePack/!svn/ver/50/ThePack/src/net/sf/odinms/client/messages/WhisperMapleClientMessageCallback.java
+END
+GMCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/messages/GMCommand.java
+END
+DonatorCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ThePack/!svn/ver/67/ThePack/src/net/sf/odinms/client/messages/DonatorCommand.java
+END
+AdminCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/messages/AdminCommand.java
+END
+ServernoticeMapleClientMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ThePack/!svn/ver/50/ThePack/src/net/sf/odinms/client/messages/ServernoticeMapleClientMessageCallback.java
+END
+StringMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ThePack/!svn/ver/50/ThePack/src/net/sf/odinms/client/messages/StringMessageCallback.java
+END
+PlayerCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/messages/PlayerCommand.java
+END
+SuperCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ThePack/!svn/ver/68/ThePack/src/net/sf/odinms/client/messages/SuperCommand.java
+END
+CommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ThePack/!svn/ver/66/ThePack/src/net/sf/odinms/client/messages/CommandProcessor.java
+END
+InternCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ThePack/!svn/ver/59/ThePack/src/net/sf/odinms/client/messages/InternCommand.java
+END
